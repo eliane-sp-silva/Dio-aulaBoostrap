@@ -7,5 +7,6 @@ Bootcamp Dio - projeto #2 - Utilizando Bootstrap
 
 
 ### Links uteis:
- -  Color Hunt | https://colorhunt.co/palette
- -  Paleta de Cores Utilizada : https://colorhunt.co/palette/333c83f24a72fdaf75eaea7f
+- Imagens Gratuitas | https://www.pexels.com/pt-br/
+-  Color Hunt | https://colorhunt.co/palette
+-  Paleta de Cores Utilizada : https://colorhunt.co/palette/333c83f24a72fdaf75eaea7f
